@@ -1,0 +1,5 @@
+# Environment variables file (contains sensitive information)
+.env
+
+# Node.js dependencies
+node_modules/
